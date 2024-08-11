@@ -14,4 +14,4 @@ Catalog is a modern web application using React, Tailwind CSS and Material Tailw
 
 ## Live Demo
 
-You can view the live demo of the application [here](https://catalog-fe-assignment.onrender.com/).
+You can view the live demo of the application <a href="https://catalog-fe-assignment.onrender.com/" target="_blank" rel="noopener noreferrer">here</a>.
