@@ -1,8 +1,17 @@
-# React + Vite
+# Catalog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Catalog is a modern web application using React, Tailwind CSS and Material Tailwind. It utilizes Vite for fast development and build processes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **ApexCharts**:
+  - **Full-Screen Charts**: Easily create and view charts in full-screen mode.
+  - **Comparison Charts**: Compare data across different ranges for better insights.
+  - **Interactive Visualizations**: Engage users with interactive and customizable chart components.
+- **Vite**: A fast build tool and development server that enhances the development experience.
+
+## Live Demo
+
+You can view the live demo of the application [here](https://catalog-fe-assignment.onrender.com/).
