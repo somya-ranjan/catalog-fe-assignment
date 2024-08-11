@@ -1,0 +1,13 @@
+.container {
+  @apply w-full mx-auto p-3 md:p-0 md:py-5 lg:py-8;
+}
+.demo_tab_content {
+  @apply text-center text-xl font-semibold;
+}
+
+.icon_container {
+  @apply flex items-center gap-2 cursor-pointer;
+}
+.icon {
+  @apply w-5 h-5 mt-[1px];
+}
